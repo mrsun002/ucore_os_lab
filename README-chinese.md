@@ -104,6 +104,7 @@ ucore OS实验了。
 ```
 C:\Users\VirtualBox VMs\
 ```
+> [NOTICE]  如果virtualBox无法新建64位虚拟机，可以重启电脑 --> 按F12进入BIOS --> 在高级选项中找到virtualization --> 将其设置为enable
 
 建议a: 设置虚拟硬盘的大小为8GB以上，虚拟内存在1B以上。
 建议b: 如果你的机器安装的是32位的windows，则下载32位的ubuntu 14.04 32bit img镜像。
